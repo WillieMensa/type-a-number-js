@@ -5,6 +5,11 @@ and incremental), as well as leaderboards. It also demonstrates Interactive
 Posts and Deep-Linking, allowing you to challenge your friends to beat your
 score on either the web or mobile version.
 
+Una aplicación que demuestra algunos logros simples (normal, oculto, e incremental), así 
+como tablas de clasificación. También demuestra interactividad, publicaciones y enlaces 
+profundos, lo que le permite desafiar a sus amigos para vencer a su puntuación en la web 
+o la versión móvil.
+
 ## Code
 
 You can find the code that runs the game in the `js` directory. The following
