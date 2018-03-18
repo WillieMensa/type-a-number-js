@@ -1,4 +1,4 @@
-# Type-a-Number Challenge
+# Type-a-Number Tutorial
 
 A sample application that demonstrates some simple achievements (normal, hidden,
 and incremental), as well as leaderboards. It also demonstrates Interactive
@@ -9,6 +9,8 @@ Una aplicación que demuestra algunos logros simples (normal, oculto, e increment
 como tablas de clasificación. También demuestra interactividad, publicaciones y enlaces 
 profundos, lo que le permite desafiar a sus amigos para vencer a su puntuación en la web 
 o la versión móvil.
+
+Una aplicación que demuestra algunos logros simples y tablas de clasificación
 
 ## Code
 

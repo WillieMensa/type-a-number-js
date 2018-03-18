@@ -13,9 +13,9 @@
   <p id="pageHeader">Type-a-Number!</p>
   </header>
   <div role="main">
-      <div id="loginDiv" style="display: none;">Welcome! <a href="javascript:login.showLoginDialog()"><img src="img/gplus_signin_normal.png"></a></div>
+      <div id="loginDiv" style="display: none;">Bienvenido! <a href="javascript:login.showLoginDialog()"><img src="img/gplus_signin_normal.png"></a></div>
       <div id="welcome" style="display: none;">
-        <div id="message">Welcome, playername!</div>
+        <div id="message">Bienvenido, jugador!</div>
         <input type="button" id="welcomeAchievements" disabled="true"  value="View achievements" onclick="welcome.showAchievements()"/>
         <input type="button" id="welcomeleaderboards" disabled="true" value="View leaderboards" onclick="welcome.showLeaderboards()" />
         <input type="button" id="playGameEasy" disabled="true" value="Play Game (Easy)" onclick="welcome.startGame(game.EASY)" />
@@ -31,7 +31,7 @@
           <div id="challengeArea" style="display:none;"></div>
           <div id="gameBragArea" style="display: none;">
               <span id="bragMessage"></span><br/>
-              <div id="bragButton"><button>Challenge!</button></div>
+              <div id="bragButton"><button>Desafío!</button></div>
 
           </div>
         <input type="button" id="submitScoreButton" value="Request Score" onclick="game.requestScore()" /><br/>
@@ -43,8 +43,8 @@
         <table id="achievementsTable">
           <thead>
           <tr>
-            <th>Name</th>
-            <th>Description</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
             <th>Icon</th>
           </tr>
           </thead>
@@ -60,7 +60,7 @@
           <thead>
           <tr>
             <th>Icon</th>
-            <th>Name</th>
+            <th>Nombre</th>
             <th>See it?</th>
           </tr>
           </thead>
@@ -117,15 +117,15 @@
 
       <div id="achUnlocked" style="display:none;" class="unlockWidget">
         <img src="" style="float: left;" class="smallIcon"/>
-        <p>Achievement unlocked!<br/>
-          <span id="achName">Name</span><br/>
-          <span id="achDescrip">Achievement unlocked!</span>
+        <p>Logro desbloqueado!<br/>
+          <span id="achName">Nombre</span><br/>
+          <span id="achDescrip">Logro desbloqueado!</span>
         </p>
       </div>
       <div id="leadUnlocked" style="display:none;" class="unlockWidget">
         <img src="" style="float: left;" class="smallIcon"/>
-        <p>New high score!<br/>
-          <span id="leadName">Name</span><br/>
+        <p>Nuevo score alto<br/>
+          <span id="leadName">Nombre</span><br/>
         </p>
       </div>
     </div>
