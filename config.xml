@@ -23,5 +23,10 @@
 	<allow-intent href="geo:*" />
 	<platform name="android">
 		<allow-intent href="market:*" />
+		<android:debuggable "false" />
 	</platform>
+
+    <application android:debuggable="false">
+    </application>
+
 </widget>
