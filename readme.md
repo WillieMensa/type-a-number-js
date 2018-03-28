@@ -1,10 +1,5 @@
 # Type-a-Number Tutorial
 
-Summary: Prueba con type a number 5
-Summary: Prueba con type a number 4
-Summary: Prueba con type a number 3
-
-
 A sample application that demonstrates some simple achievements (normal, hidden,
 and incremental), as well as leaderboards. It also demonstrates Interactive
 Posts and Deep-Linking, allowing you to challenge your friends to beat your

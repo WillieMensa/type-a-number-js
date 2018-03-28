@@ -3,7 +3,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
 	id	=	"ar.com.ingverger.typeanumber" 
-	version="0.0.1" >
+    versionCode = "10"
+	version="0.1.1" >
 
 	<name>Escribe un numero</name>
 	<description>
@@ -23,7 +24,6 @@
 	<allow-intent href="geo:*" />
 	<platform name="android">
 		<allow-intent href="market:*" />
-		<android:debuggable "false" />
 	</platform>
 
     <application android:debuggable="false">
