@@ -1,4 +1,7 @@
-# Type-a-Number Tutorial
+# Type-a-Number Challenge
+
+28/3/2018 - Version de prueba 020B - Trabajando en master
+28/3/2018 - Version de prueba 020A - Trabajando en master
 
 A sample application that demonstrates some simple achievements (normal, hidden,
 and incremental), as well as leaderboards. It also demonstrates Interactive
