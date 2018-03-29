@@ -1,5 +1,7 @@
 # Type-a-Number Challenge
 
+28/3/2018 - Version de prueba 020c - Trabajando en master
+
 28/3/2018 - Version de prueba 020B - Trabajando en master
 28/3/2018 - Version de prueba 020A - Trabajando en master
 
