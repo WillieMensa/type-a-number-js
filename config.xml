@@ -18,7 +18,4 @@
 		<allow-intent href="market:*" />
 	</platform>
 
-    <application android:debuggable="false">
-    </application>
-
 </widget>
