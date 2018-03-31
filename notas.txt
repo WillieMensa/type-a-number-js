@@ -1,0 +1,66 @@
+Versiones enviadas a Phonegap
+31/3/2018 - Version de prueba 020e - Mas ajustes. Ahora para incorporar tablas de clasificacion.
+30/3/2018 - Version de prueba 020d - Pequeños ajustes formales. No afectan funcionamiento.
+28/3/2018 - Version de prueba 020c - Trabajando en master
+28/3/2018 - Version de prueba 020B - Trabajando en master
+28/3/2018 - Version de prueba 020A - Trabajando en master
+
+
+Alacen de claves	almacenclaves.keystore
+clave del almacen	gein2018
+clave de la app		gein2018
+
+------------------------------
+Identificacion de archivos
+------------------------------
+12.apk		APK original
+12-1.apk	APK derivado
+
+Prueba interna
+Direccion para ingresar a la prueba interna
+https://play.google.com/apps/internaltest/4699701209109880506
+
+Dirección de la aplicación en el play store
+https://play.google.com/store/apps/details?id=ar.com.ingverger.typeanumber&hl=es-419&ah=YRalNdMJ9012VLyEbz25gqIWwrM
+
+Mi lista de verificadores
+ingverger@gmail.com
+willie.mensa@gmail.com
+nanafoss@gmail.com
+gverger@gmail.com
+
+
+Cuando agrego el juego via Servicios de juego aparece abajo un codigo
+Type a Number Test
+Application ID	805631475795
+
+type-a-number-test-37222403
+
+----------------------
+Crear credenciales
+----------------------
+
+Crear un ID de cliente de OAuth 2.0
+Se creó el cliente OAuth "Cliente web Type a Number"
+
+Nombre de producto
+Prueba con Type a Number
+
+Configurar la pantalla de consentimiento de OAuth 2.0
+
+Credenciales
+ID de cliente		805631475795-omlk5k1lubuu7c3b28apomo5rkvj2k9i.apps.googleusercontent.com
+Secreto de cliente	nXmFQNqwag-i_asxQXYvJZt-
+Fecha de creación	30 mar. 2018 17:44:37
+
+Proyecto de la consola API
+Este juego está vinculado al proyecto de la consola API llamado "Type a Number Test".
+Para que funcionen los servicios de juego, se deben activar las siguientes API en el proyecto de consola de API:
+API obligatorias para que funcionen los servicios de juego básicos
+	API de publicación de servicios de juego de Google+ y 
+	Administración de juegos de Google Play
+
+ID para las tablas de clasificacion
+N.º	Nombre	ID	Puntuaciones	Estado
+1	Modo Hard	CgkI04CDm7kXEAIQAA
+2	Modo Easy	CgkI04CDm7kXEAIQAQ

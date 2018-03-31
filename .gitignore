@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Archivos en mi PC
+*.apk
+*.bak
+client_id.json

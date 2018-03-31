@@ -1,7 +1,7 @@
 # Type-a-Number Challenge
 
+30/3/2018 - Version de prueba 020d - Pequeños ajustes formales. No afectan funcionamiento.
 28/3/2018 - Version de prueba 020c - Trabajando en master
-
 28/3/2018 - Version de prueba 020B - Trabajando en master
 28/3/2018 - Version de prueba 020A - Trabajando en master
 
@@ -153,3 +153,5 @@ the location from which you are serving your application.
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-46743168-1/playgameservices/type-a-number-js)](https://github.com/playgameservices/type-a-number-js)
+
+http://lorempixel.com/1000/500/abstract/1/Willie_Verger

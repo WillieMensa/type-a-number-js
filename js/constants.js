@@ -31,10 +31,11 @@ constants.ACH_COCKY = 'DDDDDDDDDD';
 constants.ACH_LEET = 'EEEEEEEEEE';
 constants.ACH_REALLY_BORED = 'FFFFFFFFFF';
 
-constants.LEADERBOARD_EASY = 'GGGGGGGGGG';
-constants.LEADERBOARD_HARD = 'HHHHHHHHHH';
+constants.LEADERBOARD_EASY = 'CgkI04CDm7kXEAIQAQ';
+constants.LEADERBOARD_HARD = 'CgkI04CDm7kXEAIQAA';
 
-constants.CLIENT_ID = '1234567890.apps.googleusercontent.com';
-constants.APP_ID = '1234567890';
+constants.CLIENT_ID = '805631475795-omlk5k1lubuu7c3b28apomo5rkvj2k9i.apps.googleusercontent.com';
+constants.APP_ID = '805631475795';
 
-constants.LINK_PAGE_BASE = 'https://www.example.com/linkPage/index.php';
+constants._ORIGINAL_LINK_PAGE_BASE = 'index.html https://www.example.com/linkPage/index.php';
+constants.LINK_PAGE_BASE = 'www.ingverger.com.ar/_pruebas/type-a-number-js/linkPage/index.php';
